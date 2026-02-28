@@ -2,7 +2,7 @@
 
 ## Instantly Play ---> <a href="https://phuahjinwei.github.io/Suika-Simulator/src/suikeGame.html">here</a>
 <br/>
-<img src="Screenshot 2026-02-28 203608.png" alt="demoPic" width="70%">
+<img src="src/img/readme_demoPic.jpg" alt="demoPic" width="70%">
 <br/>
 
 ## On going issue:
